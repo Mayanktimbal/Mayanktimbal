@@ -1,4 +1,7 @@
 ### Hi there 👋
+My self Mayank Timbal
+To know myself you can visit my website and youtube channel:
+https://mayank-timbal.web.app
 
 <!--
 **Mayanktimbal/Mayanktimbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
